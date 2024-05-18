@@ -1,0 +1,31 @@
+.heading {
+  font-family: "Poppins";
+  font-size: 24px;
+}
+
+.bg-container {
+  background-image: url(https://ik.imagekit.io/mahameenu/MERN/beach-418742_1280.jpg?updatedAt=1715964160933);
+  height: 500px;
+  width: 300px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.card-container {
+  background-color: white;
+  text-align: center;
+  opacity: 1;
+}
+
+.paragraph {
+  font-family: "Poppins";
+  font-size: 14px;
+}
+
+.button {
+  font-family: "Poppins";
+  background-color: rgb(100, 93, 229);
+  color: white;
+  border-radius: 15px;
+}
