@@ -1,0 +1,46 @@
+.bg-container {
+  background-image: url(https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523);
+  height: 500px;
+  width: 350px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.heading {
+  font-size: 250%;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+.para {
+  text-align: center;
+  color: white;
+  font-size: large;
+}
+.sub-top {
+  color: white;
+  font-size: large;
+  font-weight: bold;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.para1 {
+  color: white;
+}
+.btn-con {
+  padding-top: 10px;
+  padding-left: 40%;
+}
+.btn {
+  background-color: orange;
+  border-color: black 2em;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: white;
+  border-width: 3px;
+  border-color: darkgray;
+}
+.info {
+  color: white;
+  text-decoration: underline;
+  text-align: center;
+}
