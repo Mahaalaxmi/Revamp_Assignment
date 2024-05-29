@@ -1,0 +1,7 @@
+.back {
+  background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png);
+  height: 525px;
+  width: 375px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
